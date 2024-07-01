@@ -8,7 +8,7 @@ Sou um entusiasta do desenvolvimento de software backend. Sou apaixonado por tec
 
 ## ⚡ Tech Stack
 
-Aqui estão algumas coisas que estou aprendendo ao longo da minha jornada de aprendizado.
+Aqui estão algumas coisas que estou aprendendo ao longo da minha jornada de aprendizado e que ja tive contato.
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
   
