@@ -35,7 +35,7 @@ Aqui estão algumas coisas que estou aprendendo ao longo da minha jornada de apr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauemagnus/)
 
 
- ou então me envie um mail! [![Gmail Badge](https://img.shields.io/badge/-kmarquesmagnus@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmarquesmagnus@gmail.com)](mailto:SEU-EMAIL)
+ ou então me envie um mail! [![Gmail Badge](https://img.shields.io/badge/-kmarquesmagnus@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmarquesmagnus@gmail.com)](mailto:kmarquesmagnus@gmail.com)
 
 
 
